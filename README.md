@@ -27,5 +27,9 @@ Todos os dados utilizados neste repositório são fictícios e foram criados ape
 
 ## 👨‍💻 Sobre mim
 
-Sou Filipe Siqueira, especialista em integração de dados e segurança da informação, com experiência em projetos de ETL, governança e conformidade regulatória. Este portfólio é uma amostra prática do meu trabalho com dados sensíveis em ambientes corporativos.
+Sou especialista em integração de dados com foco em projetos de ETL, Data Warehouse (DW), Test Data Management (TDM) e conformidade com a LGPD. Tenho experiência prática com ferramentas como Talend, Informatica PowerCenter, IBM DataStage, SSIS e Oracle Data Integrator, além de domínio em bancos de dados como Oracle, SQL Server, DB2, MySQL e Progress.
+
+Já atuei em empresas como HDI Seguros, Natura, SKY, Claro Brasil, CPFL e Itaú Unibanco, desenvolvendo soluções de mascaramento de dados sensíveis, automação de processos e integração entre sistemas. Também trabalhei com Adobe Campaign em projetos de segmentação e campanhas de marketing.
+
+Tenho familiaridade com Power BI e já concluí cursos voltados à visualização de dados. Atualmente estou aprofundando meus conhecimentos em Cloud e Python, ampliando minha atuação em engenharia de dados e arquitetura de soluções.
 
