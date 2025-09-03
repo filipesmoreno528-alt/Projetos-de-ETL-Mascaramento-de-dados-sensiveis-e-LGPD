@@ -1,9 +1,0 @@
-## Pseudocódigo – Mascaramento de Nome
-
-1. Para cada registro na tabela:
-   a. Verifica se o campo Nome está preenchido
-   b. Se estiver vazio, atribui "Nome Genérico"
-   c. Se estiver preenchido:
-      - Gera um nome aleatório a partir de uma lista fictícia
-      - Mantém estrutura de nome + sobrenome
-      - Atualiza o campo original com o novo valor
