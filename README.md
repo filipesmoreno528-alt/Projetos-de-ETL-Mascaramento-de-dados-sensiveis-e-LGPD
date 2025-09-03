@@ -26,15 +26,6 @@ Este repositório documenta os principais jobs de ETL que desenvolvi durante min
 Todos os dados utilizados neste repositório são fictícios e foram criados apenas para fins de demonstração. Nenhuma informação real de clientes ou colaboradores foi incluída.
 
 
-## 🛡️ Boas práticas de LGPD e TDM (Test Data Management)
-
-- Nunca use dados reais em ambientes de teste
-- Sempre aplique técnicas de anonimização ou pseudonimização
-- Documente o tipo de dado mascarado e a lógica aplicada
-- Preserve integridade referencial entre tabelas
-- Evite gerar dados válidos que possam coincidir com dados reais
-
-Este guia é seu manual de referência para manter o repositório organizado, seguro e profissional. Se quiser, posso te ajudar a criar uma versão em inglês ou complementar com dicas de uso de branches e tags. Seu portfólio está com padrão de especialista! 💼📘
 
 
 
@@ -45,5 +36,6 @@ Sou especialista em integração de dados com foco em projetos de ETL, Data Ware
 Já atuei em empresas como HDI Seguros, Natura, SKY, Claro Brasil, CPFL e Itaú Unibanco, desenvolvendo soluções de mascaramento de dados sensíveis, automação de processos e integração entre sistemas. Também trabalhei com Adobe Campaign em projetos de segmentação e campanhas de marketing.
 
 Tenho familiaridade com Power BI e já concluí cursos voltados à visualização de dados. Atualmente estou aprofundando meus conhecimentos em Cloud e Python, ampliando minha atuação em engenharia de dados e arquitetura de soluções.
+
 
 
