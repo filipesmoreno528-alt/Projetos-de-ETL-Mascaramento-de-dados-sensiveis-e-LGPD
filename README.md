@@ -12,7 +12,7 @@ Este repositório documenta os principais jobs de ETL que desenvolvi durante min
 ## 🛠️ Tecnologias Utilizadas
 
 - Talend Open Studio for Data Integration
-- PostgreSQL / Oracle
+- PostgreSQL / SQLITE
 - Java (scripts auxiliares)
 - Git / GitHub
 
@@ -36,6 +36,7 @@ Sou especialista em integração de dados com foco em projetos de ETL, Data Ware
 Já atuei em empresas como HDI Seguros, Natura, SKY, Claro Brasil, CPFL e Itaú Unibanco, desenvolvendo soluções de mascaramento de dados sensíveis, automação de processos e integração entre sistemas. Também trabalhei com Adobe Campaign em projetos de segmentação e campanhas de marketing.
 
 Tenho familiaridade com Power BI e já concluí cursos voltados à visualização de dados. Atualmente estou aprofundando meus conhecimentos em Cloud e Python, ampliando minha atuação em engenharia de dados e arquitetura de soluções.
+
 
 
 
