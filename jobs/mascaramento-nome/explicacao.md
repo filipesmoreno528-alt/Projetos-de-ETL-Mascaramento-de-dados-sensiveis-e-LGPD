@@ -8,3 +8,7 @@ O processo foi implementado no Talend com lógica de atualização (`UPDATE`) e 
 - Evitar nomes repetidos em massa
 - Preservar capitalização e formato original
 - Garantir compatibilidade com sistemas que validam tamanho do campo
+
+## 📸 Print do Job no Talend
+
+![Print do Job](screenshots/Job_mascaramento_estrutura.png)
