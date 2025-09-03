@@ -8,3 +8,9 @@ Desafios enfrentados:
 - Evitar duplicidade nos CPFs gerados
 - Preservar integridade referencial entre tabelas
 - Garantir performance em grandes volumes de dados
+
+## 📸 Print do Job no Talend
+
+![Fluxo Talend – CPF](screenshots/fluxo-cpf.png)
+
+
